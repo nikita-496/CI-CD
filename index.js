@@ -1,1 +1,2 @@
-alert ("hello world!")
+const a = 'hello world!';
+alert(a);
