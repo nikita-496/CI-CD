@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "eslint": "eslint index.js"
+  },
+  "dependencies": {
+    "eslint": "^8.20.0"
+  }
+}
